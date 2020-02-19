@@ -1,6 +1,6 @@
 # Palindromes
 
-This is an implementation of Manacher's algorithm, which finds all palindromes in a string in linear time.
+This is an implementation of Manacher's algorithm, which finds all palindromes in a string in linear time. It is written in C and intended to be used on Linux.
 
 
 ## Usage
