@@ -7,9 +7,9 @@ This is an implementation of Manacher's algorithm, which finds all palindromes i
 
 To build the 'palindromes' binary, clone the repository, navigate to it, and run 'make':
 
-    $ git clone https://github.com/rubenvannieuwpoort/palindromes
-    $ cd palindromes
-    $ make
+    git clone https://github.com/rubenvannieuwpoort/palindromes
+    cd palindromes
+    make
 
 After building, you should be able to use the binary:
 
